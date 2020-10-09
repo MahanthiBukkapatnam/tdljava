@@ -10,7 +10,7 @@ public class ByteValue {
         return 127;
     }
 
-    public static int getMinValue() {
+    public static byte getMinValue() {
         return -128;
     }
 }
