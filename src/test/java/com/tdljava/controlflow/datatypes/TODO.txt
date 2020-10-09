@@ -1,0 +1,14 @@
+Data Types
+
+TODO
+    short
+    int
+    long
+    float
+    double
+    boolean
+    char
+
+Done
+    byte
+
