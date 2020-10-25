@@ -1,8 +1,6 @@
 Data Types
 
 TODO
-    short
-    int
     long
     float
     double
@@ -11,4 +9,6 @@ TODO
 
 Done
     byte
+    short
+    int
 
