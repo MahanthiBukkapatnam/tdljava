@@ -14,13 +14,13 @@ public class IntTest {
     }
 
     //-2,147,483,648 to 2147483647
-    @DisplayName("Test get a max short value of 2,147,483,647")
+    @DisplayName("Test get a max int value of 2,147,483,647")
     @Test
     void testGetMaxValue() {
         assertEquals(2147483647, IntValue.getMaxValue());
     }
 
-    @DisplayName("Test get a min short value of -2,147,483,648")
+    @DisplayName("Test get a min int value of -2,147,483,648")
     @Test
     void testGetMinValue() {
         assertEquals(-2147483648, IntValue.getMinValue());
