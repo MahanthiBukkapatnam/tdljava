@@ -1,7 +1,6 @@
 Data Types
 
 TODO
-    long
     float
     double
     boolean
@@ -11,4 +10,5 @@ Done
     byte
     short
     int
+    long
 
